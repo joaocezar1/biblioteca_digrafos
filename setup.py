@@ -8,5 +8,5 @@ setup(
     description='Uma biblioteca para grafos orientados usando listas de adjacência',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/seu_usuario/minha_biblioteca',  # Link para seu repositório
+    url='https://github.com/joaocezar1/biblioteca_digrafos',  # Link para seu repositório
 )
